@@ -17,7 +17,7 @@ Add Laravel-Ebay to your composer file via the composer require command:
 
 
 ```bash
-$ composer require hkonnet/laravel-ebay
+$ composer require ennnnny/laravel-ebay
 ```
 
 Or add it to `composer.json` manually:
